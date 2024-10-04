@@ -1,6 +1,6 @@
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./reverex.html).
+[Link to Reverex page](./reverex.html).
 
 There should be whitespace between paragraphs.
 
