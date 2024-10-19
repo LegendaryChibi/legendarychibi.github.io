@@ -1,3 +1,5 @@
+[Home](index.md) | [Projects](projects.md)
+
 ## [Reverex](reverex.md) 🥉
 
 ## [Darwin's Diner](darwinsdiner.md)
