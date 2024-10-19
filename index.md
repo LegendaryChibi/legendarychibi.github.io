@@ -2,4 +2,4 @@
 
 # Hi, I'm **Joshua Varghese**. 
 
-I'm an award winning programming team lead with a passion for innovation. My work blends systems, functions, and form to bring worlds to life.
+I'm an award winning Game Programmer with a passion for innovation. My work blends systems, functionality, and form to bring worlds to life.
