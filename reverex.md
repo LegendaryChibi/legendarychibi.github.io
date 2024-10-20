@@ -16,7 +16,7 @@
 
   <main>
     <section class="intro">
-      <h1>Reverex</h1>
+      <h1>REVEREX</h1>
       <div class="game-info">
         <p><strong>Platform:</strong> PC</p>
         <p><strong>Engine:</strong> Unity 3D</p>
