@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -66,10 +64,5 @@
       </ul>
     </section>
   </main>
-
-  <footer>
-    <p>&copy; 2024 Your Name</p>
-  </footer>
-
 </body>
 </html>
