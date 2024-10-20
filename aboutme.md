@@ -1,3 +1,5 @@
+[Home](index.md) | [About Me](aboutme.md)
+
 Hi!
 
 I'm Joshua Varghese, an Award Winning Game Programmer with a strong background in creating systems, databases, and design. My notable work includes REVEREX where I developed custom a custom minigame system to play and queue multiple games at a time. 
