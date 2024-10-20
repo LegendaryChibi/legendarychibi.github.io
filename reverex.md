@@ -1,32 +1,75 @@
-[Home](index.md) | [About Me](aboutme.md)
 
-# Reverex
-<p> 
-Platform: PC <br> 
-Engine: Unity 3D <br> 
-Production Time: 12 Weeks<br> 
-Size of Team: 9 <br> 
-Role: Lead Programmer, Gameplay 
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reverex Game Showcase</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
-# Roles and Responsibilities
-- Developed a custom minigame system designed to play up to 9 games and managed simultaneously with stat systems and gameplay systems
-- Facilitated sprints, and planned milestone goals with other leads
-- Assisted in implementing UI, VFX, and animations
-- Closely collaborated with other programmers, designers, and artists
-- Helped to build and main an expanding codebase
+  <header>
+    <nav>
+      <a href="index.md">Home</a> |
+      <a href="aboutme.md">About Me</a>
+    </nav>
+  </header>
 
-# Overview
-**REVEREX** is an award-winning  **asymmetrical two-player co-op game** in which players don the roles of Lab Technicians operating an experimental device designed to bring patients out of a coma. **Featuring** **3 Unique Levels & Endings,** **Unusual Gravity Mechanics, 2-player asymmetric action, and cutting-edge graphics.**
+  <main>
+    <section class="intro">
+      <h1>Reverex</h1>
+      <div class="game-info">
+        <p><strong>Platform:</strong> PC</p>
+        <p><strong>Engine:</strong> Unity 3D</p>
+        <p><strong>Production Time:</strong> 12 Weeks</p>
+        <p><strong>Size of Team:</strong> 9</p>
+        <p><strong>Role:</strong> Lead Programmer, Gameplay</p>
+      </div>
+    </section>
 
-**Navigator**: The Navigator is responsible for navigating the trippy and unusual dream world of the coma patient. Run, Jump, and Parkour your way through the dream world!
+    <section class="roles">
+      <h2>Roles and Responsibilities</h2>
+      <ul>
+        <li>Developed a custom minigame system for up to 9 games with stat and gameplay management systems</li>
+        <li>Facilitated sprints and planned milestone goals with other leads</li>
+        <li>Assisted in implementing UI, VFX, and animations</li>
+        <li>Collaborated closely with other programmers, designers, and artists</li>
+        <li>Helped build and maintain an expanding codebase</li>
+      </ul>
+    </section>
 
-**Vitalist**: The Vitalist must complete minigames designed to maintain the vital stats and health of the patient’s physical body. The outcome of these minigames directly impacts the performance of the Navigator.
+    <section class="overview">
+      <h2>Overview</h2>
+      <p><strong>REVEREX</strong> is an award-winning asymmetrical two-player co-op game in which players don the roles of Lab Technicians operating an experimental device designed to bring patients out of a coma.</p>
+      <p><strong>Featuring:</strong></p>
+      <ul>
+        <li>3 Unique Levels & Endings</li>
+        <li>Unusual Gravity Mechanics</li>
+        <li>2-player asymmetric action</li>
+        <li>Cutting-edge graphics</li>
+      </ul>
 
-# Events
+      <h3>Roles:</h3>
+      <p><strong>Navigator:</strong> Responsible for navigating the trippy and unusual dream world of the coma patient. Run, jump, and parkour your way through the dream world!</p>
+      <p><strong>Vitalist:</strong> Completes minigames designed to maintain the vital stats and health of the patient’s physical body. The outcome of these minigames directly impacts the performance of the Navigator.</p>
+    </section>
 
-- **Winner: 2024 Level Up Student Showcase Innovative Technology Award!**
-- **Niagara College Board of Governors Meeting Demo**
-- **Niagara Falls Comic Con Demo (Representing Niagara College)**
-- **Official Selection at the Toronto Games Week NextGen Showcase!**
-- **Toronto Student Life Expo Demo**
+    <section class="events">
+      <h2>Events</h2>
+      <ul>
+        <li><strong>Winner:</strong> 2024 Level Up Student Showcase Innovative Technology Award!</li>
+        <li>Niagara College Board of Governors Meeting Demo</li>
+        <li>Niagara Falls Comic Con Demo (Representing Niagara College)</li>
+        <li>Official Selection at the Toronto Games Week NextGen Showcase!</li>
+        <li>Toronto Student Life Expo Demo</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Your Name</p>
+  </footer>
+
+</body>
+</html>
