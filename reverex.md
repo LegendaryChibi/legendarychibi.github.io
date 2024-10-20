@@ -1,11 +1,13 @@
 [Home](index.md) | [About Me](aboutme.md)
 
 # Reverex
-> Platform: PC
-> Engine: Unity 3D
-> Production Time: 12 Weeks
-> Size of Team: 9
-> Role: Lead Programmer, Gameplay
+<p> 
+Platform: PC <br> 
+Engine: Unity 3D <br> 
+Production Time: 12 Weeks<br> 
+Size of Team: 9 <br> 
+Role: Lead Programmer, Gameplay 
+</p>
 
 # Roles and Responsibilities
 - Developed a custom minigame system designed to play up to 9 games and managed simultaneously with stat systems and gameplay systems
