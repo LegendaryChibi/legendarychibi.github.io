@@ -1,31 +1,27 @@
 [Home](index.md) | [About Me](aboutme.md)
 
-# Hi, I'm **Joshua Varghese**. 
+# Darwin's Diner
+<p> 
+Platform: PC <br> 
+Engine: Unity 3D <br> 
+Production Time: 2 Days <br> 
+Size of Team: 6 <br> 
+Role: Lead Programmer, Gameplay 
+</p>
 
-I'm an award winning **Game Programmer** with a passion for innovation. My work blends systems, function, and form to bring worlds to life.
 
-# Experienced With
-- Unity
-- Unreal Engine 5
-- C#
-- C++
-- Python
+# Roles and Responsibilities
+- Assisted in implementing animations, back-end systems, and gameplay loop
+- Closely collaborated with other programmers, designers, and artists in a short time span
 
-# Recent Projects
+# Overview
+Darwin's Diner is a first of it's kind, dog based, PB&J-like. In this game, you are a dog and you make PB&J's for your customers. And really... that's all you can do. Dog's don't have hands like humans!  
+  
+Spread, Swipe and Satisfy your customers with your impeccable Sandwich Skills!
 
-## [Reverex](reverex.md) 🥉(2024)
+Created at Niagara College for Global Game Jam 2024
 
-**REVEREX** is an award-winning  **asymmetrical two-player co-op game** in which players don the roles of Lab Technicians operating an experimental device designed to bring patients out of a coma.
+[**Global GameJam Page**](https://globalgamejam.org/games/2024/darwins-diner-9)
 
-**Winner: 2024 Level Up Student Showcase Innovative Technology Award**
+[**Itch.io Page Here**](https://b3mn.itch.io/darwinsdiner)
 
-**Official Selection at the Toronto Games Week NextGen Showcase**
-
-## [Darwin's Diner](darwinsdiner.md) (2024)
-**Darwin's Diner** is a first of it's kind, dog based, PB&J-like. In this game, you are a dog and you make PB&J's for your customers.
-
-## Coming Soon (2024)
-
-## Coming Soon (2024)
-
-## Coming Soon (2025)
