@@ -39,15 +39,8 @@
 
     <section class="overview">
       <h2>Overview</h2>
-      <p><strong>REVEREX</strong> is an award-winning asymmetrical two-player co-op game in which players don the roles of Lab Technicians operating an experimental device designed to bring patients out of a coma.</p>
-      <p><strong>Featuring:</strong></p>
-      <ul>
-        <li>3 Unique Levels & Endings</li>
-        <li>Unusual Gravity Mechanics</li>
-        <li>2-player asymmetric action</li>
-        <li>Cutting-edge graphics</li>
-      </ul>
-
+      <p><strong>REVEREX</strong> is an award-winning asymmetrical two-player co-op game in which players don the roles of Lab Technicians operating an experimental device designed to bring patients out of a coma. Featuring 3 Unique Levels & Endings, Unusual Gravity Mechanics, 2-player asymmetric action, and cutting-edge graphics.</p>
+      
       <h3>Roles:</h3>
       <p><strong>Navigator:</strong> Responsible for navigating the trippy and unusual dream world of the coma patient. Run, jump, and parkour your way through the dream world!</p>
       <p><strong>Vitalist:</strong> Completes minigames designed to maintain the vital stats and health of the patient’s physical body. The outcome of these minigames directly impacts the performance of the Navigator.</p>
