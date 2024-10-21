@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/image.jpg");
+  background-image: url("/images/image.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -9,7 +9,7 @@
 .u-section-1 .u-image-1 {
   width: 416px;
   height: 417px;
-  background-image: url("images/vjoshers799gmail.com-4d7f6d65.jpg");
+  background-image: url("/images/vjoshers799gmail.com-4d7f6d65.jpg");
   background-position: 50% 16.95%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -327,7 +327,7 @@
     font-size: 2.125rem;
   }
 } .u-section-2 {
-  background-image: url("images/e66fa488b4897614c3861f5518a278de6043d33df2ca562ae44a7f8f1ad142b2126e9491507020f7fab85d3a47e57be980ae6b13a695156fcd6dfa_1280.jpg");
+  background-image: url("/images/e66fa488b4897614c3861f5518a278de6043d33df2ca562ae44a7f8f1ad142b2126e9491507020f7fab85d3a47e57be980ae6b13a695156fcd6dfa_1280.jpg");
   min-height: 699px;
 }
 
@@ -955,7 +955,7 @@
 }
 
 .u-section-3 .u-image-1 {
-  background-image: url("images/Reverex.webp");
+  background-image: url("/images/Reverex.webp");
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -1017,7 +1017,7 @@
 }
 
 .u-section-3 .u-image-2 {
-  background-image: url("images/ddPosterOverlay.png");
+  background-image: url("/images/ddPosterOverlay.png");
   min-height: 465px;
   background-position: 50% 50%;
 }
@@ -1629,7 +1629,7 @@
     width: 340px;
   }
 } .u-section-5 {
-  background-image: url("images/photo-1504681869696-d977211a5f4c.jpeg");
+  background-image: url("/images/photo-1504681869696-d977211a5f4c.jpeg");
   background-position: 50% 50%;
   min-height: 757px;
 }
@@ -1641,7 +1641,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 757px;
-  background-image: url("images/photo-1525498128493-380d1990a112.jpeg");
+  background-image: url("/images/photo-1525498128493-380d1990a112.jpeg");
   background-position: 50% 50%;
 }
 
