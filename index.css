@@ -30,7 +30,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 65px auto 0;
+  margin: 65px 230px 0 255px;
 }
 
 .u-section-1 .u-text-2 {
@@ -193,6 +193,11 @@
   .u-section-1 .u-image-1 {
     width: 417px;
   }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 1199px) {
@@ -217,10 +222,7 @@
   }
 
   .u-section-1 .u-text-1 {
-    width: auto;
     margin-top: 60px;
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-1 .u-text-2 {
