@@ -25,7 +25,7 @@
   min-height: 400px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-image: linear-gradient(to bottom, #585dff, #fd6a6a);
+  background-image: linear-gradient(to bottom, var(--custom-color-7), var(--custom-color-8));
   background-size: cover;
   --radius: 50px;
 }
