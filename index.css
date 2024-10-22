@@ -30,7 +30,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 66px 243px 0;
+  margin: 66px auto 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -193,11 +193,6 @@
   .u-section-1 .u-image-1 {
     width: 417px;
   }
-
-  .u-section-1 .u-text-1 {
-    margin-right: 305px;
-    margin-left: 0;
-  }
 }
 
 @media (max-width: 1199px) {
@@ -208,10 +203,6 @@
   .u-section-1 .u-image-1 {
     width: 416px;
     height: 416px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-right: 105px;
   }
 
   .u-section-1 .u-repeater-1 {
@@ -227,7 +218,6 @@
 
   .u-section-1 .u-text-1 {
     margin-top: 60px;
-    margin-right: 0;
   }
 
   .u-section-1 .u-text-2 {
