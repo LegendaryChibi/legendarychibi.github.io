@@ -61,6 +61,7 @@
   background-image: url("/images/love.jpg");
   margin-top: 0;
   margin-bottom: 0;
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-container-layout-4 {
@@ -69,6 +70,7 @@
 
 .u-section-1 .u-image-3 {
   background-image: url("/images/dog.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-container-layout-5 {

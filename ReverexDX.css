@@ -1,7 +1,7 @@
  .u-section-1 {
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-image: url("/images/Screenshot2024-10-21155207.png");
+  background-image: url("/images/reverex.jpg");
   background-size: cover;
 }
 
@@ -10,19 +10,20 @@
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin-top: 60px;
+  margin-top: 85px;
   margin-bottom: 60px;
 }
 
-.u-section-1 .u-image-1 {
+.u-section-1 .u-layout-cell-1 {
   min-height: 400px;
-  background-image: url("/images/darwinsDiner.png");
-  background-position: 62.96% 4.17%;
-  background-size: auto 130%;
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 20px 0;
+  padding: 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 484px;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -43,28 +44,21 @@
   line-height: 1.2;
   text-shadow: -2px -2px 8px rgba(128,128,128,1);
   font-weight: 700;
-  margin: 0 27px;
+  margin: 0 auto;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 140px;
+    min-height: 470px;
   }
 
-  .u-section-1 .u-image-1 {
+  .u-section-1 .u-layout-cell-1 {
     min-height: 330px;
-    background-position: 61.99% 0%;
   }
 
   .u-section-1 .u-layout-cell-2 {
     min-height: 330px;
     --radius: 20px;
-  }
-
-  .u-section-1 .u-text-1 {
-    width: auto;
-    margin-top: 4px;
-    margin-left: 0;
   }
 }
 
@@ -73,18 +67,12 @@
     min-height: 393px;
   }
 
-  .u-section-1 .u-image-1 {
-    min-height: 310px;
-    background-position: 67.77% 29.42%;
-    background-size: 130%;
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 253px;
   }
 
   .u-section-1 .u-layout-cell-2 {
     min-height: 100px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-left: 27px;
   }
 }
 
@@ -93,8 +81,8 @@
     min-height: 900px;
   }
 
-  .u-section-1 .u-image-1 {
-    min-height: 465px;
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 380px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -108,10 +96,8 @@
     min-height: 618px;
   }
 
-  .u-section-1 .u-image-1 {
-    min-height: 293px;
-    background-position: 61.14% 0%;
-    background-size: auto 115%;
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 239px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 400px;
@@ -132,5 +118,32 @@
 }
 
 .u-section-3 .u-text-2 {
+  margin: 53px auto 0 0;
+}
+
+.u-section-3 .u-text-3 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-text-4 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 60px;
+}.u-section-4 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 44px auto 0 0;
+}
+
+.u-section-4 .u-text-2 {
   margin: 53px auto 60px 0;
+}
+
+.u-section-4 .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
