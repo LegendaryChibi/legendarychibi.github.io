@@ -1,8 +1,7 @@
  .u-section-1 {
   background-position: 50% 50%;
-  background-repeat: no-repeat, no-repeat;
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('/images/greenthingbanner.jpg');
-  background-size: cover, cover;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -47,6 +46,23 @@
   margin: 0 auto;
 }
 
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+  width: 100%;
+  left: 0%;
+  height: 467%;
+  top: -184%;
+}
+
+@media (max-width: 1399px) {
+  .u-section-1 .embed-responsive-1 {
+    width: 178%;
+    left: -39%;
+    height: 178%;
+    top: -39%;
+  }
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 470px;
@@ -89,6 +105,13 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-1 .embed-responsive-1 {
+    width: 187%;
+    left: -43%;
+    height: 100%;
+    top: 0%;
+  }
 }
 
 @media (max-width: 575px) {
@@ -98,6 +121,11 @@
 
   .u-section-1 .u-layout-cell-1 {
     min-height: 239px;
+  }
+
+  .u-section-1 .embed-responsive-1 {
+    width: 233%;
+    left: -67%;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 400px;
@@ -128,10 +156,7 @@
 }
 
 .u-section-4 .u-text-2 {
-  margin: 54px auto 60px 0;
-}
-
-.u-section-4 .u-btn-1 {
-  background-image: none;
-  padding: 0;
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 60px;
 }
