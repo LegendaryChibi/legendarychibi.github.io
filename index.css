@@ -1897,21 +1897,11 @@
 }
 
 .u-section-5 .u-image-2 {
-  background-image: url("/images/love.jpg");
-  margin-top: 0;
-  background-position: 50% 50%;
-}
-
-.u-section-5 .u-container-layout-4 {
-  padding: 30px 50px;
-}
-
-.u-section-5 .u-image-3 {
   background-image: url("/images/dog.jpg");
   background-position: 50% 50%;
 }
 
-.u-section-5 .u-container-layout-5 {
+.u-section-5 .u-container-layout-4 {
   padding: 30px 50px;
 }
 
@@ -1937,10 +1927,6 @@
   .u-section-5 .u-layout-cell-2 {
     background-position: 50% 50%;
     min-height: 620px;
-  }
-
-  .u-section-5 .u-image-2 {
-    margin-bottom: 0;
   }
 }
 
@@ -1990,11 +1976,6 @@
     padding-left: 30px;
     padding-right: 30px;
   }
-
-  .u-section-5 .u-container-layout-5 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
 }
 
 @media (max-width: 767px) {
@@ -2018,11 +1999,6 @@
   }
 
   .u-section-5 .u-container-layout-4 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-5 .u-container-layout-5 {
     padding-left: 10px;
     padding-right: 10px;
   }
