@@ -3,6 +3,8 @@
  * License https://froala.com/wysiwyg-editor/terms/
  * Copyright 2014-2021 Froala Labs
  */
+ 
+ .grecaptcha-badge { visibility: hidden; }
 
 .fr-clearfix::after {
   clear: both;
